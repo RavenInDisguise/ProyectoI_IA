@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 # Para excluir commits en el folder de configuración de vscode
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
